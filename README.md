@@ -13,7 +13,7 @@ Secure Communications: Access encrypted document services and secure messaging p
 Cyber Tools: Utilize tools for port scanning, service management, and security audits.
 Ghost Protocol: Disable network interfaces for enhanced security.
 Usage Instructions:
-Download the Script: Clone or download the repository containing the SIGMA_GHOST v9.0 script.
+Download the Script: Clone or download the repository containing the SIGMA_GHOST v1.0 script.
 Run as Administrator: For full functionality, right-click the script and select "Run as Administrator."
 Navigate the Menu: Use the numbered options to access different functionalities. Follow the prompts for each feature.
 Secure Communications: Access secure chat services and encrypted document platforms directly from the menu.
