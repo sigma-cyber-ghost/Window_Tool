@@ -23,7 +23,7 @@ set "B6=╚══════╝╚═╝ ╚═════╝ ╚═╝     �
 :: ===== SECURE CONFIGURATION =====
 set "BTC=bc1ppzt0pn4plgtetlkar8p5j43udd2mh85cmtu9g23vxqfm6ayknpnsmgzcfr"
 set "SOL=DRokH1Mhbzo4dGtA4wLUtjyVvNSyjVvCMikSbMRZr6k6"
-set "TG_CHANNEL=https://t.me/Sigma_Ghost"
+set "TG_CHANNEL=https://t.me/Sigma_Cyber_Ghost"
 set "SECURE_CHAT1=https://cryptpad.fr"
 set "SECURE_CHAT2=https://session.org"
 set "SECURE_CHAT3=https://privnote.com"
